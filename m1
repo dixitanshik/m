@@ -1,0 +1,119 @@
+{
+  "courses": [
+    {
+      "role": "Role 1",
+      "trainingName": "Training Name 1",
+      "trainingCode": "2357R29",
+      "courseLevel": "Level 3",
+      "business": "AD",
+      "channel": "Virtual",
+      "startDate": "18 Apr 2024",
+      "endDate": "20 Apr 2024",
+      "action": "delete"
+    },
+    {
+      "role": "Role 1",
+      "trainingName": "Training Name 1",
+      "trainingCode": "2357R30",
+      "courseLevel": "Level 2",
+      "business": "AD",
+      "channel": "Virtual",
+      "startDate": "24 Apr 2024",
+      "endDate": "26 Apr 2024",
+      "action": "delete"
+    },
+    {
+      "role": "Role 1",
+      "trainingName": "Training Name 1",
+      "trainingCode": "2357R31",
+      "courseLevel": "Level 3",
+      "business": "AD",
+      "channel": "In-Person",
+      "startDate": "15 May 2024",
+      "endDate": "18 May 2024",
+      "action": "delete"
+    },
+    {
+      "role": "Role 1",
+      "trainingName": "Training Name 1",
+      "trainingCode": "2357R32",
+      "courseLevel": "Level 1",
+      "business": "AD",
+      "channel": "In-Person",
+      "startDate": "20 May 2024",
+      "endDate": "22 May 2024",
+      "action": "delete"
+    },
+    {
+      "role": "Role 1",
+      "trainingName": "Training Name 1",
+      "trainingCode": "2357R33",
+      "courseLevel": "Level 1",
+      "business": "AD",
+      "channel": "Virtual",
+      "startDate": "23 May 2024",
+      "endDate": "26 May 2024",
+      "action": "delete"
+    },
+    {
+      "role": "Role 1",
+      "trainingName": "Training Name 1",
+      "trainingCode": "2357R34",
+      "courseLevel": "Level 2",
+      "business": "AD",
+      "channel": "Virtual",
+      "startDate": "29 May 2024",
+      "endDate": "31 May 2024",
+      "action": "delete"
+    },
+    {
+      "role": "Role 1",
+      "trainingName": "Training Name 1",
+      "trainingCode": "2357R35",
+      "courseLevel": "Level 1",
+      "business": "AD",
+      "channel": "In-Person",
+      "startDate": "1 Jun 2024",
+      "endDate": "3 Jun 2024",
+      "action": "delete"
+    },
+    {
+      "role": "Role 1",
+      "trainingName": "Training Name 1",
+      "trainingCode": "2357R36",
+      "courseLevel": "Level 2",
+      "business": "AD",
+      "channel": "Virtual",
+      "startDate": "5 Jun 2024",
+      "endDate": "7 Jun 2024",
+      "action": "delete"
+    },
+    {
+      "role": "Role 1",
+      "trainingName": "Training Name 1",
+      "trainingCode": "2357R37",
+      "courseLevel": "Level 3",
+      "business": "AD",
+      "channel": "Virtual",
+      "startDate": "9 Jun 2024",
+      "endDate": "11 Jun 2024",
+      "action": "delete"
+    },
+    {
+      "role": "Role 1",
+      "trainingName": "Training Name 1",
+      "trainingCode": "2357R38",
+      "courseLevel": "Level 1",
+      "business": "AD",
+      "channel": "Virtual",
+      "startDate": "15 Jun 2024",
+      "endDate": "17 Jun 2024",
+      "action": "delete"
+    }
+  ],
+  "pagination": {
+    "totalItems": 10,
+    "itemsPerPage": 10,
+    "currentPage": 1
+  }
+}
